@@ -4,4 +4,4 @@
 
 <mark style="color:blue;">複数のDaddyNFTを所有していたほうが当選確率があがるため毎月お小遣いを貯めてダディを買いまくろう！</mark>
 
-![](https://github.com/crazyanimalfactory/daddynft/blob/main/.gitbook/assets/image%20\(1\).png)
+![](.gitbook/assets/img2.png)
