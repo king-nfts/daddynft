@@ -8,4 +8,4 @@
     * [ベビー抽選の抽選方式](benefits/baby-lottery/lottery-method.md)
 * [クリエイター紹介](creator.md)
 * [コントラクト情報](contract.md)
-* [NFT購入方法](nft-gou-ru-fang-fa.md)
+* [NFT購入方法](howtobuy.md)
