@@ -2,7 +2,7 @@
 
 DaddyNFTはOpenSeaで購入することが出来ます。
 
-[https://opensea.io/collection/nft-is-dead-v2](https://opensea.io/collection/nft-is-dead-v2)
+[DaddyNFTマーケット(OpenSea)](https://opensea.io/collection/daddynft)
 
 尚、購入にはメタマスクなどのウォレットが必要です。
 
